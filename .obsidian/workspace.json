@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4a091be865c9fa",
+        "id": "7d02dd37613f9765",
         "type": "tabs",
         "children": [
           {
-            "id": "834bb5020ebb5712",
+            "id": "74b2d4641fef03c1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+                "file": "AWS IAM/01. IAM.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e9940be690e9f41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS IAM/02. AWS  - controles de acceso y gobernanza.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -97,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+                "file": "AWS IAM/01. IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+                "file": "AWS IAM/01. IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md"
+                "file": "AWS IAM/01. IAM.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,36 +150,39 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "834bb5020ebb5712",
+  "active": "74b2d4641fef03c1",
   "lastOpenFiles": [
+    "AWS IAM/Material IAM/Pasted image 20240708120421.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120357.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120343.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120330.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120318.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120116.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120033.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120017.png",
+    "AWS IAM/Material IAM/Pasted image 20240708120004.png",
+    "AWS IAM/Material IAM/Pasted image 20240708115947.png",
+    "AWS IAM/Material IAM/Pasted image 20240708115931.png",
+    "AWS IAM/01. IAM.md",
     "AWS IAM/04. AWS Control Tower.md",
     "README.md",
-    "AWS IAM/01. IAM.md",
+    "AWS IAM/02. AWS  - controles de acceso y gobernanza.md",
+    "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
     "styles.css",
     "manifest.json",
-    "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
     "AWS IAM/Enlances/Listas de Permitir y denegar.md",
-    "AWS IAM/02. AWS  - controles de acceso y gobernanza.md",
     "AWS IAM/03. IAM Identity Center.md",
     "Untitled 1.md",
-    "AWS IAM/Material IAM/Politicas de Control de servicios.png",
-    "AWS IAM/Material IAM/Lista PermitirVsDenegfar.png",
-    "AWS IAM/Material IAM/PermitirvsDenegar.png",
-    "AWS IAM/Material IAM/UnionSCP.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "AWS IAM/Material IAM/Funcionamiento de SCPs.png",
     "Politicas.md",
     "AWS IAM/Enlances",
     "Welcome.md",
     "2024-06-02.md",
     "[Politicas.md",
-    "AWS IAM/Material IAM/GENERALINFORMATION-AWSORGANIZATION.png",
     "AWS IAM/Material IAM",
     "create a link.md",
     "asdasd.md",
-    "AWS IAM",
-    "Pasted image 20240602190907.png",
-    "Pasted image 20240602190909.png"
+    "AWS IAM"
   ]
 }
