@@ -12,16 +12,39 @@
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "image",
+              "state": {
+                "file": "AWS IAM/Material IAM/01. IAM Poliitcas de acceso.png"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "98ee4853790cfcde",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "AWS IAM/01. IAM.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "6f38056c8d99a47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS IAM/01. IAM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,8 +173,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "74b2d4641fef03c1",
+  "active": "6f38056c8d99a47e",
   "lastOpenFiles": [
+    "AWS IAM/Material IAM/01. IAM Poliitcas de acceso.png",
+    "AWS IAM/01. IAM.md",
+    "AWS IAM/01. IAM.md",
+    "AWS IAM/Material IAM/01. IAM - Amazon Resourse Name.png",
+    "Pasted image 20240708120648.png",
     "AWS IAM/Material IAM/Pasted image 20240708120421.png",
     "AWS IAM/Material IAM/Pasted image 20240708120357.png",
     "AWS IAM/Material IAM/Pasted image 20240708120343.png",
@@ -160,10 +188,6 @@
     "AWS IAM/Material IAM/Pasted image 20240708120116.png",
     "AWS IAM/Material IAM/Pasted image 20240708120033.png",
     "AWS IAM/Material IAM/Pasted image 20240708120017.png",
-    "AWS IAM/Material IAM/Pasted image 20240708120004.png",
-    "AWS IAM/Material IAM/Pasted image 20240708115947.png",
-    "AWS IAM/Material IAM/Pasted image 20240708115931.png",
-    "AWS IAM/01. IAM.md",
     "AWS IAM/04. AWS Control Tower.md",
     "README.md",
     "AWS IAM/02. AWS  - controles de acceso y gobernanza.md",
