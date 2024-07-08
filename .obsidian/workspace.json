@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "ba0329e9cb36a300",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b4a091be865c9fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834bb5020ebb5712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9940be690e9f41a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS IAM/02. AWS  - controles de acceso y gobernanza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e55ed0062f613efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f52faa9e42975d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68bf9363062c387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cbae538f1cf5346",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#IAM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56c21d66a83ed5b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8b049c37ad2d5a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3017bd4a454cca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126265fc3cf3249d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9279d292632628ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1069307f8a4ef04c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae13fa4e44da7781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "834bb5020ebb5712",
+  "lastOpenFiles": [
+    "AWS IAM/04. AWS Control Tower.md",
+    "README.md",
+    "AWS IAM/01. IAM.md",
+    "styles.css",
+    "manifest.json",
+    "AWS IAM/Enlances/Landing Zone (zona de aterrizaje).md",
+    "AWS IAM/Enlances/Listas de Permitir y denegar.md",
+    "AWS IAM/02. AWS  - controles de acceso y gobernanza.md",
+    "AWS IAM/03. IAM Identity Center.md",
+    "Untitled 1.md",
+    "AWS IAM/Material IAM/Politicas de Control de servicios.png",
+    "AWS IAM/Material IAM/Lista PermitirVsDenegfar.png",
+    "AWS IAM/Material IAM/PermitirvsDenegar.png",
+    "AWS IAM/Material IAM/UnionSCP.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "AWS IAM/Material IAM/Funcionamiento de SCPs.png",
+    "Politicas.md",
+    "AWS IAM/Enlances",
+    "Welcome.md",
+    "2024-06-02.md",
+    "[Politicas.md",
+    "AWS IAM/Material IAM/GENERALINFORMATION-AWSORGANIZATION.png",
+    "AWS IAM/Material IAM",
+    "create a link.md",
+    "asdasd.md",
+    "AWS IAM",
+    "Pasted image 20240602190907.png",
+    "Pasted image 20240602190909.png"
+  ]
+}
